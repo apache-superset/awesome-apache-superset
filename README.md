@@ -21,7 +21,7 @@ Interested in contributing? Check out
 
 ## Resources
 
-* Superset 101 -- Getting Started Guide (From Preset Blog)
+* Superset 101 -- Getting Started Guide (From [Preset](https://preset.io) [Blog](https://preset.io/blog/))
   * [Installing Apache Superset Locally](https://preset.io/blog/2020-05-11-getting-started-installing-superset/)
   * [Installing Database Drivers](https://preset.io/blog/2020-05-18-install-db-drivers/)
   * [Connect Superset To Google Sheets](https://preset.io/blog/2020-06-01-connect-superset-google-sheets/)
