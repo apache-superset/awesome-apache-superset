@@ -1,5 +1,5 @@
 # Awesome Apache Superset
-a collection of resources and blogs about Apache Superset
+A collection of resources and blogs about Apache Superset
 
 ### Community Resources
 - [Apache Superset official GitHub](https://github.com/apache/incubator-superset)
@@ -9,7 +9,7 @@ a collection of resources and blogs about Apache Superset
 ## Get Help
 
 * [Stackoverflow tag](https://stackoverflow.com/questions/tagged/apache-superset)
-* [Join Community Slack](https://join.slack.com/t/apache-superset/shared_invite/enQtNDMxMDY5NjM4MDU0LWJmOTcxYjlhZTRhYmEyYTMzOWYxOWEwMjcwZDZiNWRiNDY2NDUwNzcwMDFhNzE1ZmMxZTZlZWY0ZTQ2MzMyNTU)
+* [Join Community Slack](https://join.slack.com/t/apache-superset/shared_invite/zt-g8lpruog-HeqpgYrwdfrD5OYhlU7hPQ)
 * [Mailing list](https://lists.apache.org/list.html?dev@superset.apache.org)
 
 
@@ -25,6 +25,7 @@ Interested in contributing? Check out
 * [Docker image](https://hub.docker.com/r/apache/incubator-superset)
 * [YouTube Channel](https://www.youtube.com/channel/UCMuwrvBsg_jjI2gLcm04R0g)
   * [May 15, 2020: Virtual Meetup Recording. Topics: 0.36 Overview, Committers Self-Intro, Roadmap](https://www.youtube.com/watch?v=tXGDmqjmcTs&t=20s)
+  * [July 16, 2020: Virtual Meetup Recording. Topics: Visualization Plugin, 0.37 Preview](https://www.youtube.com/watch?reload=9&v=f6up5x_iRbI)
 
 
 ### Learning Content
