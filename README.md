@@ -30,7 +30,7 @@ Interested in contributing? Check out
 ### Learning Content
 
 - [O'Reilly Live Training: Rapid Data Exploration and Analysis with Apache Superset](https://learning.oreilly.com/live-training/courses/rapid-data-exploration-and-analysis-with-apache-superset/0636920457251/)
-- [Apache Superset Quick Start Guide](https://www.oreilly.com/library/view/apache-superset-quick/9781788992244/https://www.oreilly.com/library/view/apache-superset-quick/9781788992244/) from O'Reilly
+- [Apache Superset Quick Start Guide](https://www.oreilly.com/library/view/apache-superset-quick/9781788992244/) from O'Reilly
 - [Getting Started with Apache Superset, an Enterprise-Ready Business Intelligence Platform](https://reflectivedata.com/getting-started-apache-superset-enterprise-ready-business-intelligence-platform/) from [Reflective Data](https://reflectivedata.com)
 - [Unlocking Advanced Data Analytics on The Data Lake Using Apache Superset and Dremio](https://www.dremio.com/tutorials/dremio-apache-superset/) from [Dremio](https://www.dremio.com)
 - [Test-driving Apache Superset](https://blog.smartcat.io/2018/test-driving-apache-superset/) from [SmartCat](https://smartcat.io)
