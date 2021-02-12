@@ -22,7 +22,7 @@ Interested in contributing? Check out
 ## Resources
 
 * [Preset Blog](https://preset.io/blog/)
-* [Docker image](https://hub.docker.com/r/preset/superset/)
+* [Docker image](https://hub.docker.com/r/apache/incubator-superset)
 * [YouTube Channel](https://www.youtube.com/channel/UCMuwrvBsg_jjI2gLcm04R0g)
   * [May 15, 2020: Virtual Meetup Recording. Topics: 0.36 Overview, Committers Self-Intro, Roadmap](https://www.youtube.com/watch?v=tXGDmqjmcTs&t=20s)
 
