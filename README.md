@@ -34,6 +34,8 @@ Interested in contributing? Check out
 - [Getting Started with Apache Superset, an Enterprise-Ready Business Intelligence Platform](https://reflectivedata.com/getting-started-apache-superset-enterprise-ready-business-intelligence-platform/) from [Reflective Data](https://reflectivedata.com)
 - [Unlocking Advanced Data Analytics on The Data Lake Using Apache Superset and Dremio](https://www.dremio.com/tutorials/dremio-apache-superset/) from [Dremio](https://www.dremio.com)
 - [Test-driving Apache Superset](https://blog.smartcat.io/2018/test-driving-apache-superset/) from [SmartCat](https://smartcat.io)
+- [Advanced Apache Superset for Data Engineers](https://www.youtube.com/watch?v=Mhai7sVU244) from Airflow Summit - July 2020
+- [Use CrateDB and Apache Superset for Open Source Data Warehousing and Data Visualization](https://crate.io/a/cratedb-apache-superset/)
 
 ### Installation
 
@@ -41,6 +43,7 @@ Interested in contributing? Check out
 - [Install on Windows 10](https://gist.github.com/mark05e/d9cccae129dd11a21d7219eddd7d9923)
 - [Install on CentOS](https://aichamp.wordpress.com/2019/11/20/installing-apache-superset-into-centos-7-with-python-3-7/)
 - [Build Apache Superset from source](https://hackernoon.com/a-better-guide-to-build-apache-superset-from-source-6f2ki32n0)
+- [How to install Apache Superset on a GKE Kubernetes Cluster](https://howchoo.com/kubernetes/how-to-install-apache-superset-on-a-gke-kubernetes-cluster)
 
 
 ### Visualization Plugins
